@@ -1,2 +1,4 @@
 # ica-cocktail-party
-blind source separation of audios using FastICA
+Blind source separation of audios using FastICA
+
+app: https://ica-cocktail-solver.herokuapp.com/
