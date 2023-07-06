@@ -1,5 +1,5 @@
 streamlit==0.62.0
-scipy==1.4.1
+scipy==1.10.0
 matplotlib==3.2.1
 numpy==1.18.5
 scikit_learn==0.23.1
